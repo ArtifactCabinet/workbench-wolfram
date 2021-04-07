@@ -1,4 +1,5 @@
-# Books
+# Mathematics meets Computer
+## Books
 + [An Elementary Introduction to the Wolfram Language, Stephen Wolfram](http://www.wolfram.com/language/elementary-introduction/)
 
 + Mathematica®: A Problem-Centred Approach 2nd https://www.springer.com/gp/book/9783319275840
@@ -7,7 +8,7 @@
 
 + http://www.cfm.brown.edu/people/dobrush/am33/Mathematica/intro/collect.html
 
-# Notes on using git
+## Notes on using git
 
 Mathematica's `.nb` somehow should be considered as a binary file format which is very hard to use it with git.
 
